@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthenticationTutorial.Server", "BlazorAuthenticationTutorial\Server\BlazorAuthenticationTutorial.Server.csproj", "{FB2C9935-24DD-4312-904F-01AD3D4331D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthenticationTutorial.Client", "BlazorAuthenticationTutorial\Client\BlazorAuthenticationTutorial.Client.csproj", "{1FBF5025-F5F3-4975-BF3C-B781D0C787D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthenticationTutorial.Shared", "BlazorAuthenticationTutorial\Shared\BlazorAuthenticationTutorial.Shared.csproj", "{7AE98BC7-6412-4D48-BE36-DE48182912FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2C9935-24DD-4312-904F-01AD3D4331D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2C9935-24DD-4312-904F-01AD3D4331D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2C9935-24DD-4312-904F-01AD3D4331D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2C9935-24DD-4312-904F-01AD3D4331D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FBF5025-F5F3-4975-BF3C-B781D0C787D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBF5025-F5F3-4975-BF3C-B781D0C787D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBF5025-F5F3-4975-BF3C-B781D0C787D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBF5025-F5F3-4975-BF3C-B781D0C787D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE98BC7-6412-4D48-BE36-DE48182912FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE98BC7-6412-4D48-BE36-DE48182912FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE98BC7-6412-4D48-BE36-DE48182912FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE98BC7-6412-4D48-BE36-DE48182912FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D254448-E808-4EB9-B4E6-004CCE26387B}
+	EndGlobalSection
+EndGlobal
